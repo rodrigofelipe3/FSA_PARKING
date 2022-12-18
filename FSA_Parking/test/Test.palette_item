@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<palette_item version="1.0">
+  <component classname="test.Test" />
+  <classpath>
+      <resource type="jar" name="C:\Users\Rodrigo\Downloads\panel-round.jar" />
+  </classpath>
+</palette_item>
